@@ -1,0 +1,26 @@
+ @import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@1,500&display=swap');
+*{
+  box-sizing: border-box;
+  padding: o;
+  margin: 0;
+
+}
+a{
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  font-family: 'Vollkorn', serif;
+  -webkit-font-smoothing: antialiased;
+  background-color:rgb(13, 46, 46);
+  -moz-osx-font-smoothing: grayscale;
+  color: rgb(226, 210, 210);
+  max-width: 1200px;
+  margin: auto;
+
+}
+a
+{
+  color: rgb(23, 125, 214);
+}
